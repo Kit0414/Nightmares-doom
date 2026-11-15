@@ -1,1 +1,2 @@
-# Nightmares-doom
+# Nightmares-doom 
+This game is of psychological horror, it touches sensible topics  like intrafamiliar violence and multiple traumas build by this abuse. The player is a ten year old child that is trapped with different nightmares, the monsters, as he avances he encounters with different challenges till he gets to the final boss. At the end he scapes from this horrors but discovers a truth that changed his life. This game was developed in Godot Engine 4 with the program language GDScript. The basic mechanics of this game is A and D for movement and Space to jump. 
